@@ -244,18 +244,14 @@ El código está diseñado para ser extensible:
    - Login para docentes
    - Portal para estudiantes
 
-## Licencia
-
-Este proyecto se proporciona como trabajo académico. Siéntete libre de usarlo y modificarlo según sea necesario.
-
 ## Autor
 
-Desarrollado como proyecto de Estructura de Datos utilizando Python y OOP.
+Solin A. Mordan Acosta
 
 ## Contacto
 
 Para preguntas o sugerencias sobre el código, por favor contacta al desarrollador.
-
+alexacosta3241@gmail.com
 ---
 
 **Notas para el uso académico**:
