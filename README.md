@@ -72,7 +72,7 @@ Coordina todas las asignaturas del sistema:
 - Métodos: `crear_asignatura()`, `obtener_asignatura()`, `listar_asignaturas()`, `listar_asignaturas_detallado()`
 
 ### Clase `MenuConsola`
-Interfaz de usuario basada en menú:
+Interfaz de  basada en menú:
 - Menú principal para crear asignaturas y ver reportes
 - Menú de asignatura para gestionar grupos
 - Menú de grupo para administrar estudiantes y calificaciones
@@ -86,8 +86,8 @@ Interfaz de usuario basada en menú:
 
 1. Descargar o clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/gestor-estudiantes.git
-cd gestor-estudiantes
+git clone https://github.com/Ale3241/Gestor-de-estudiantes.git
+cd Gestor-de-estudiantes
 ```
 
 2. No requiere instalación de dependencias externas (utiliza solo librerías estándar de Python)
@@ -96,7 +96,7 @@ cd gestor-estudiantes
 
 ### Ejecutar la aplicación:
 ```bash
-python gestor_estudiantes.py
+python Gestor-de-estudiantes.py
 ```
 
 ### Flujo de uso típico:
